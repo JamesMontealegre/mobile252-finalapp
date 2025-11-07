@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315098232123",
+    "project_id": "mobile252-final",
+    "storage_bucket": "mobile252-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315098232123:android:0e3daaf99a88a3d9e8331e",
+        "android_client_info": {
+          "package_name": "com.compose.finalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyW9yvD-olSHs5AsBlSKK4MqCOK7-6PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
